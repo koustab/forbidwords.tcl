@@ -45,7 +45,7 @@ setudef flag forbid
 
 ###############################################################################
 #                                                                             #
-#                                                                             #
+#                            script configuration                             #
 #                                                                             #
 ###############################################################################
 
@@ -105,9 +105,10 @@ set badbantime 1
 #The Bot will not kick the user who had the modes you will define below
 #set forbiduser "+o"
 
-### Begin Script:
-## (Don't change anything below here... Unless you know tcl)
-
+#################################################################################################
+## PLEASE DONT TOUCH BELLOW YOU MAY BREAK IT OR MAKE    SOMETHING  REALLY NICE BY ACCDIENT ;P ###                                                                              
+#                                       =)                                                      #                                                                                                        =)      
+#################################################################################################
 
 ### Borrowed from awyeahs tcl scripts (www.awyeah.org) ###
 ## awyeah said: Thanks to user and ppslim for this control code removing filter
